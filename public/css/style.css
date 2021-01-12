@@ -165,6 +165,14 @@
     
 }
 
+.testimonial .fTombol{
+    /* margin: auto; */
+    font-size: 7px;
+    border-radius: 4px;
+    margin: 100px -45px;
+    
+}
+
 
 /* Utility */
 .tombol{
