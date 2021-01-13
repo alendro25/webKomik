@@ -5,7 +5,7 @@
 <div class="container-fluid">
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-4">Find <span>Pleasure</span><br> in Reading</h1>
+            <h1 class="display-4 animate__animated animate__jackInTheBox">Find <span>Pleasure</span><br> in Reading</h1>
             <a href="/komik" class="btn btn-primary tombol">Read More</a>
         </div>
     </div>
@@ -17,17 +17,17 @@
         <div class="row justify-content-center">
             <div class="col-10 info-panel">
                 <div class="row">
-                    <div class="col-lg">
+                    <div class="col-lg animate__animated animate__fadeInTopLeft">
                         <img src="/img/employee.png" alt="employee" class="float-left">
                         <h4>24 Hours</h4>
                         <p>Melayani Customer 7/24 Jam.</p>
                     </div>
-                    <div class="col-lg">
+                    <div class="col-lg animate__animated animate__fadeInUp">
                         <img src="/img/hires.png" alt="hires" class="float-left">
                         <h4>High-Res</h4>
                         <p>Gambar dan Bacaan HD.</p>
                     </div>
-                    <div class="col-lg">
+                    <div class="col-lg animate__animated animate__fadeInUp">
                         <img src="/img/security.png" alt="security" class="float-left">
                         <h4>Security</h4>
                         <p>Tingkat Keamanan Akun Anda Terjamin.</p>
@@ -55,7 +55,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <!-- <h5>"Bekerja dengan susana hati yang lebih asik dan mempelajari hal baru setiap harinya"</h5> -->
-                    <my-product name='"Ahh_Mantabb"'>
+                    <my-product name='"Be a Next Gen!"'>
                     </my-product>
                 </div>
             </div>

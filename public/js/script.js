@@ -1,9 +1,11 @@
 function changeProduct(){
     document.querySelector('my-product').name = '"Bekerja dengan susana hati yang lebih asik dan mempelajari hal baru setiap harinya"';
+
     document.querySelector('my-product').show();
 }
+
 function changeProductBack(){
-    document.querySelector('my-product').setAttribute('name', '"Ahh Mantabb"');
+    document.querySelector('my-product').setAttribute('name', '"Gunakan Waktu Luang Untuk Membaca"');
     document.querySelector('my-product').hide();
 
 }
